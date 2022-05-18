@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+#navbar {
+  padding: 1%;
+}
+#logo{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: "rgb(77, 156, 72)";
+  border-width: 5px;
+  font-weight: bold;
+  padding-left: 11pt;
+}
+img{
+  width: 2rem;
+  height: 2rem;
+}
